@@ -10,6 +10,7 @@
 
 |名称|作用|
 |-----|-----|
+| [Visual Studio Code](https://code.visualstudio.com) | MS出品跨平台编辑器, 内置GUI Git, Debug, 扩展插件 |
 | [Atom](https://atom.io/) | Github出品编辑器 |
 | [Sublime Text](https://www.sublimetext.com/) | 老牌全能编辑器 |
 
