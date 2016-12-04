@@ -87,3 +87,10 @@
 | [Spectacle](https://www.spectacleapp.com/) | 窗口快捷分屏|
 | [Flux](https://justgetflux.com/) | 过滤蓝光护眼 |
 | [licecap](http://www.cockos.com/licecap/) | Gif录屏 |
+
+## Chrome插件
+
+|名称|作用|
+|----|----|
+|Vimium| 在Chrome浏览器中使用Vim键位进行操作|
+|AdBlock Plus|屏蔽广告|
