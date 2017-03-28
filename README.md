@@ -2,6 +2,8 @@
 
 |名称|作用|
 |-----|-----|
+| [WebStorm](https://www.jetbrains.com/webstorm/) | 前端开发IDE |
+| [PhpStorm](https://www.jetbrains.com/phpstorm/) | PHP开发IDE |
 | [Android Studio](https://developer.android.com/studio/index.html) | Android开发IDE |
 | [Platform IO](http://platformio.org/) | 嵌入式开发IDE |
 
@@ -23,6 +25,7 @@
 | [oh my zsh](http://ohmyz.sh/) | 命令行插件 |
 | coreutils (brew install) | BSD下使用Linux Shell命令 |
 | tree (brew install) | 树状图显示目录内容 |
+| macvim (brew install) | 适用于OSX的Vim |
 
 
 ## 数据库客户端
