@@ -21,7 +21,16 @@
 |-----|-----|
 | [homebrew](http://brew.sh/index_zh-cn.html) | Mac包管理器 |
 | [oh my zsh](http://ohmyz.sh/) | 命令行插件 |
+| coreutils (brew install) | BSD下使用Linux Shell命令 |
+| tree (brew install) | 树状图显示目录内容 |
 
+
+## 数据库客户端
+
+|名称|作用|
+|----|----|
+| [Sequel Pro](https://sequelpro.com/) | MySQL客户端 |
+| [MongoBooster](https://mongobooster.com/) | MongoDB客户端 |
 
 ## 版本控制
 
