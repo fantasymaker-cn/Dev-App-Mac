@@ -26,6 +26,8 @@
 | coreutils (brew install) | BSD下使用Linux Shell命令 |
 | tree (brew install) | 树状图显示目录内容 |
 | macvim (brew install) | 适用于OSX的Vim |
+| tmux(brew install) | 终端分屏工具 |
+| tmate(brew install) | tmux的共享版, 可以将tmux操作共享给其他人 |
 
 
 ## 数据库客户端
