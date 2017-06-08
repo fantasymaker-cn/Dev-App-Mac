@@ -99,6 +99,7 @@
 | ShadowsocksX | 学习交流, 开拓视野 |
 | [iStat Menus](https://bjango.com/mac/istatmenus/) | 状态栏系统信息, 可显示cpu, 内存, 硬盘, 网络等信息 |
 | [Spectacle](https://www.spectacleapp.com/) | 窗口快捷分屏|
+| [Amethyst](https://github.com/ianyh/Amethyst) | 平铺窗口管理器 |
 | [Flux](https://justgetflux.com/) | 过滤蓝光护眼 |
 | [licecap](http://www.cockos.com/licecap/) | Gif录屏 |
 
