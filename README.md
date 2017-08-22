@@ -28,6 +28,7 @@
 | macvim (brew install) | 适用于OSX的Vim |
 | tmux(brew install) | 终端分屏工具 |
 | tmate(brew install) | tmux的共享版, 可以将tmux操作共享给其他人 |
+| screenfetch(brew install) | 命令行方式显示当前系统信息, 支持Mac, Linux |
 
 
 ## 数据库客户端
