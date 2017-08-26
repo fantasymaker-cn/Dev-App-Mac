@@ -75,6 +75,7 @@
 |名称|作用|
 |-----|-----|
 | [Postman](https://www.getpostman.com/) | 接口调试 |
+| [Insomnia](https://insomnia.rest/) | 接口测试 |
 
 
 ## UI设计
