@@ -2,6 +2,7 @@
 
 |名称|作用|
 |-----|-----|
+| [IDEA](https://www.jetbrains.com/idea/) | Java开发IDE |
 | [WebStorm](https://www.jetbrains.com/webstorm/) | 前端开发IDE |
 | [PhpStorm](https://www.jetbrains.com/phpstorm/) | PHP开发IDE |
 | [Android Studio](https://developer.android.com/studio/index.html) | Android开发IDE |
